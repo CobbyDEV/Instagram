@@ -21,7 +21,7 @@ body {
     display: flex; /* flex-container todos os itens que tiverem dentro dele vai ocupar toda linha */
     align-items: center; /* eixo x */
     justify-content: start;  /* eixo y */
-    width: 60%;
+    width: 50%;
     height: 100vh;
 }
 
@@ -107,7 +107,7 @@ body {
 
 .dowloand{
     display: flex;
-    width: 60%;
+    width: 70%;
     justify-content: space-evenly;
     align-items: center;
     padding: 1rem;
